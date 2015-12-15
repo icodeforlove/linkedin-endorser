@@ -1,4 +1,4 @@
-# LinkedIn Automated Endorsor
+# LinkedIn Automated Endorser
 
 ## requirements
 
