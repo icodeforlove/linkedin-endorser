@@ -2,7 +2,7 @@
 
 ## requirements
 
-you will need at least node v5.1.0
+you will need at least node v5.1.0 or if you're just looking for a script to paste in the console you can use [this](https://gist.github.com/icodeforlove/690b1a5f09c1d3f85498).
 
 ## installation
 
