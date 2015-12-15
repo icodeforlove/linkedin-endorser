@@ -1,0 +1,20 @@
+{
+  "name": "linkedin-endorsor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.0.6",
+    "colors": "^1.1.2",
+    "debug": "^2.2.0",
+    "promise-class": "^0.0.4",
+    "request-promise": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
