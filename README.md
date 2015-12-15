@@ -6,7 +6,8 @@ you will need at least node v5.1.0
 
 ## installation
 
-`npm install linkedin-endorsor`
+- clone the repo
+- run `npm install` inside of it
 
 ## setup
 
