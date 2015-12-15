@@ -1,7 +1,7 @@
 {
   "name": "linkedin-endorser",
   "version": "1.0.2",
-  "description": "LinkedIn Automated Endorsor",
+  "description": "LinkedIn Automated Endorser",
   "main": "index.js",
   "dependencies": {
     "bluebird": "^3.0.6",
