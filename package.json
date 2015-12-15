@@ -1,6 +1,6 @@
 {
   "name": "linkedin-endorsor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "LinkedIn Automated Endorsor",
   "main": "index.js",
   "dependencies": {
